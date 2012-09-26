@@ -1,10 +1,8 @@
 Builds an animated map of video views from ted.com data.
 
-<iframe
-  width="560" height="315"
-  src="http://www.youtube.com/embed/omO3fr0XuhY"
-  frameborder="0" allowfullscreen>
-</iframe>
+You can see it in action at http://youtu.be/omO3fr0XuhY.
+
+![Screenshot](http://img.deanspot.org/scrup/uploaded/ev/a3qr860i8840g.png)
 
 ## Overview
 
