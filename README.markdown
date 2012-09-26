@@ -11,7 +11,7 @@ You can see it in action at http://youtu.be/omO3fr0XuhY.
 This is published mainly as a reference for your own Processing and ruby-processing
 projects, to show you how I created the map that you see.
 
-There are definitely rough edges, butt shouldn't be too hard to use some of the
+There are definitely rough edges, but it shouldn't be too hard to use some of the
 stuff here to build your own maps from your own data. Feel free to open issues &
 ask me questions if you want to. If it sounds like some of this would be useable
 by a few people, I can probably package some of it as a gem.
