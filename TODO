@@ -2,7 +2,6 @@ allow running w/o basemap
   - it looks kinda cool on a plain black background
 data clustering rake tasks
   - should supply time&space clustering options. build output file named w/ these options.
-rake task to retrieve & install java libraries
 build rake file tasks for output files. be smarter about when to rebuild them.
   - when input files are updated, output files should be rebuilt
   - allow ingest & output, of different date ranges, clustering strategies, etc
